@@ -105,7 +105,8 @@ main{
 .main__dottedbox__content__services{
     display: flex;
     flex-direction: column;
-    margin-top: 140px;
+    margin-top: 10px;
+    gap: 35px;
 }
 .main__dottedbox__content__service{
     display: flex;
